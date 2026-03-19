@@ -1,5 +1,5 @@
 {
-	"name": "im.pala.nativetexture",
+	"name": "com.api-haus.native-texture",
 	"displayName": "NativeTexture",
 	"version": "1.0.0",
 	"description": "Native texture containers for Unity's job system and Burst compiler",
@@ -7,5 +7,9 @@
 	"dependencies": {
 		"com.unity.collections": "2.6.3",
 		"com.unity.mathematics": "1.3.3"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/api-haus/com.api-haus.native-texture.git"
 	}
 }
